@@ -7,8 +7,8 @@
 ### IDE - Intellij
 ## Steps to run tests 
 ### 1. Open the project folder in Intellij IDE 
-### 2. Run command - mvn clean install -U (this will download all maven dependencies), make sure the build is successful. 
-### 3. Individual tests can be run directly from the file - GraphQLTest.java or use the command mvn test to run all the tests. 
+### 2. Run command - `mvn clean install -U` (this will download all maven dependencies), make sure the build is successful. 
+### 3. Individual tests can be run directly from the file - GraphQLTest.java or use the command - ` mvn test` to run all the tests. 
 ## Report - 
 |    Test    | Methods Passed | Scenarios Passed | # skipped | # failed |  Total Time  | Included Groups | Excluded Groups |
 |:----------:|:--------------:|:----------------:|:---------:|:--------:|:------------:|:---------------:|:---------------:|
